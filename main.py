@@ -1,5 +1,5 @@
-#Discord Selfbot Example V1.0
-#by zZan54
+# Discord Selfbot Example by zZan54
+# github.com/zZan54
 
 import discord
 from discord.ext import commands
