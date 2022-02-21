@@ -4,7 +4,7 @@
 import discord
 from discord.ext import commands
 import colorama
-from colorama import Fore, Back, Style
+from colorama import Fore
 
 client = commands.Bot(command_prefix = ".", self_bot = True, help_command = None) #edit your prefix here
 token= "TOKEN HERE"
